@@ -1,0 +1,29 @@
+body {
+    min-height: 2000px;
+  }
+  
+  .navbar-static-top {
+    margin-bottom: 19px;
+    
+  }
+div {
+  background-color: gray;
+  
+}
+
+div.row {margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+  padding: 25pxs;
+}
+
+.navbar-brand {font-size: 200%;
+ }
+
+ul {text-align: center;
+background-color: white;
+font-weight: 400;
+}
+ 
+
